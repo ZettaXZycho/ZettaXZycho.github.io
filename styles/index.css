@@ -1,0 +1,22 @@
+body {
+	background-color: LightSkyBlue;
+}
+
+h1 {
+	color: Navy;
+	margin-left: 20px;
+}
+
+p {
+	color: DodgerBlue;
+	margin-left: 20px;
+}
+
+a {
+	color: DeepSkyBlue;
+}
+
+li {
+	color: royalblue;
+	margin-left: 40px;
+}
