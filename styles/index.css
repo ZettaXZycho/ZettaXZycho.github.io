@@ -13,10 +13,27 @@ p {
 }
 
 a {
-	color: DeepSkyBlue;
+	color: Green;
 }
 
 li {
 	color: royalblue;
 	margin-left: 40px;
+}
+
+div {
+	width: 64px;
+	height: 64px;
+}
+
+.img_container {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row; 
+}
+
+.pulpito {
+	margin-top: 16px;
+	margin-left: 32px;
 }
