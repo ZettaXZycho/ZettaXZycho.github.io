@@ -21,11 +21,6 @@ li {
 	margin-left: 40px;
 }
 
-div {
-	width: 64px;
-	height: 64px;
-}
-
 .img_container {
 	width: 100%;
 	height: 100%;
@@ -35,5 +30,9 @@ div {
 
 .pulpito {
 	margin-top: 16px;
+	margin-left: 32px;
+}
+
+img {
 	margin-left: 32px;
 }
